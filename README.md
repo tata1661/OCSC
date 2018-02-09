@@ -11,4 +11,4 @@ This is the source code in MATLAB for
 }
 ```
 
-If you use our code, please cite the following paper.
+If you use the code, please cite our paper. Thank you. 
