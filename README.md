@@ -15,3 +15,7 @@ This is the source code in MATLAB for
 ```
 
 If you use the code, please cite our paper. Thank you. 
+
+Please note that the codes require MATLAB 2016b or higher version to use the implicit expansion. 
+See https://blogs.mathworks.com/loren/2016/10/24/matlab-arithmetic-expands-in-r2016b/. 
+ 
